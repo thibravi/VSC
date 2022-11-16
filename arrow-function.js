@@ -1,6 +1,6 @@
 // arrow function 
 // um jeito rápido e curto de escrever a função. 
-// se tiver mais de uma linha, vai precisar usa {} e return
+// se tiver mais de uma linha, vai precisar usar {} e return
 
 const apresentarArrow = nome => "meu nome é ${nome}";
 const soma = (num1, num2) => num1 + num2;
